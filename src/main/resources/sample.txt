@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<UploadFile>
+  <FileHeader>
+    <Status>Success</Status>
+    <Remarks />
+    <TransactionID>4944878110151942611202137</TransactionID>
+  </FileHeader>
+</UploadFile> 

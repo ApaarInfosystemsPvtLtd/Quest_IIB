@@ -1,0 +1,16 @@
+spring.data.mongodb.uri=mongodb://posUser:posUser%40123@10.168.50.147:27017/posuat
+
+############# UAT Connect API Gateway ###################
+quest.iib.soap.endpoint= https://test-connect.pnbmetlife.com/Service
+quest.apiGateway.X-IBM-Client-Secret=H6cB2vC8nT5uA0vH0nU3nY7kA1jU3aG4xY4iP5fT3gV5iR5rN6
+quest.apiGateway.X-IBM-Client-Id=2a382617-61d7-4922-940e-8f53f37bf487
+
+############# Quest IIB Api Credentials ###################
+quest.iib.soap.username =HiORmC4yOu3zXi3oTaf8Cw==
+quest.iib.soap.password =rMXgZSvb2VSPPpwM1PymQ8p2DhAPZP0MXxY/kz3+QZg=
+
+############# Quest IIB Api URLS ###################
+quest.soap.getQueryDatActionUri=http://tempuri.org/GetQueryData
+quest.soap.queryDataUploadActionUri=http://tempuri.org/QueryUpload
+
+quest.iib.pmliCompanyNumber=117
